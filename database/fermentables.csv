@@ -1,0 +1,139 @@
+Type,Supplier,Name,Notes,Color
+Grain,Briess,2-Row Brewers Malt ,"Base malt for all beer styles. Contributes light straw color. Slightly higher yield than 6-Row Malt. Slightly lower protein than 6-Row Malt.
+Flavor: Clean, sweet, mild malty ",1.8
+Grain,Briess,6-Row Brewers Malt ,"Base malt for all beer styles. Contributes light straw color. Mmore husk than 2-Row Malt. Higher enzymes than 2-Row malt. Well suited for high adjunct brewing.
+Flavor: Mild, Grainy, Malty ",1.8
+Grain,Briess,Pilsen Malt,"Base malt for all beer styles. Very light color contribution. Lightest colored base malt available. Produces very light colored, clean, crisp wort. Excellent choice for lagers. Allows the full flavor of specialty malts to shine through.
+Flavor: Clean, sweet, delicate malty flavor",1
+Grain,Briess,Pale Ale Malt,"Use as a rich malty 2-Row base malt. Contributes golden color. A fully modified, high extract, low protein malt. Sufficient enzymes to suport the inclusion of event he most demanding specialty malts without extending the brewing cycle.
+Flavor: Rich malt flavor; hints of biscuit and nutlike flavors",3.5
+Grain,Briess,"Wheat Malt, White ","Use as part of all of base malt in wheat beers. Contributes light straw color. When using more than 50% consider using a filtering aid for efficient lautering.
+Flavor: Sweet, Malty, Wheat, Mild bread dough",2.6
+Grain,Briess,"Wheat Malt, Red ","Use as part of all of base malt in wheat beers. Contributes light straw color. Runs efficiently through the brewhouse even with slightly higher protein than White Wheat Malt. Often used in Hefeweizen and other traditional wheat styles due to a distinctive, characteristic wheat flour flavor. When using more than 50% consider using a filtering aid for efficient lautering.
+Flavor: Cream, Sweet, Malty, Wheat flour ",2.6
+Grain,Briess,Vienna Malt,"Contributes hues leaning toward golden/light orange 
+Flavor: Slightly malty, warm with a light biscuit note",3.5
+Grain,Briess,Ashburne® Mild Malt,"Contributes righ golden hues 
+Flavor: Slightly malty and sweet with a subtle toasty note",5.3
+Grain,Briess,Bonlander® Munich Malt,"Golden leaning toward orange hues 
+Flavor: Very smooth and malty sweet, warming",10
+Grain,Briess,Aromatic® (Munich) Malt,"Deep golden with orange hues
+Flavor: Very smooth with an intense maltiness",20
+Grain,Briess,Munich Malt 10L,"Golden leaning toward orange hues
+Flavor: Smooth and malty sweet, warming",10
+Grain,Briess,Munich Malt 20L,"Deep golden with orange hues
+Flavor: Smooth with an intense maltiness",20
+Grain,Briess,Caracrystal® Wheat Malt,"Made from locally sourced wheat; Sweet and smooth; Exceptionally clean finish; Golden to orange to mahogany color
+Flavor: Malty, Bready, Subtle Caramel, Toffee ",45
+Grain,Briess,Carabrown® Malt,"Begins slightly sweet; Delivers an array of toasted flavors; Smooth and clean with a slightly dry finish; Light brown/orange color contributions 
+Flavor: Smooth, Slightly sweet Malty,
+Lightly toasted, Biscuity, Nutty, Graham Cracker, Clean, dry finish",55
+Grain,Briess,Midnight Wheat Malt,"Midnight Wheat Malt will deliver intense color and subtle, smooth flavor to Black IPAs, Schwarbier and other dark beers that long for color without bitter or harsh flavors. Made from Wisconsin wheat.
+Flavor: Smooth, No bitter, astringent, dry flavors or aftertaste, 
+Starts slightly sweet, Mild roasted/chocolate/coffee flavors and aromas, Finishes exceptionally clean",550
+Grain,Briess,Blackprinz® Malt,"Excellent for minor color adjustment with little or no flavor in lighter colored ales and lagers. Adds color with subtle, smooth flavor in Black IPAs, Dark Mild Ales, Brown Ales, Dark Wheat Beers and Schwarzbier. Use in larger quantitites for color plus hints of toasted malty flavor. 
+Flavor: Smooth, Mellow, No bitter, astringent, dry flavors or aftertaste, Hints of toasted malt ",500
+Grain,Briess,Smoked Malt,"Suggested Beginning Usage Rates:
+5-10% - Noticeable smoke character in lighter styles such as Scottish Ales and Oktoberfests
+10-20% - Pronounced smoke character in lighter styles like Scottish Ales and Oktoberfests
+30-60% - Noticeable to pronounced smoke character in darker styles like Stouts and Porters
+Briess Smoked Malt delivers intense smoked flavor. We recommend limiting usage to 60% of the grist.
+Flavor: Intense smoke flavor; smooth, sweet, smoked malt character",5
+Grain,Briess,Carapils® Malt ,"	Use up to 5% for increased foam, improved head retention and enhanced mouthfeel in any beer style. 
+Flavor: None",1.3
+Grain,Briess,2-Row Carapils® Malt ,"Use up to 5% for increased foam, improved head retention and enhanced mouthfeel in any beer style. 
+Flavor: None",1.5
+Grain,Briess,Caramel Malt 10L,"Flavor: Candylike, Sweetness, Mild Caramel 	 ",10
+Grain,Briess,2-Row Caramel Malt 10L,"Flavor: Candylike, Sweetness, Mild Caramel 	 ",10
+Grain,Briess,Caramel Malt 20L,"Flavor: Candylike, Sweetness, Mild Caramel 	 ",20
+Grain,Briess,2-Row Caramel Malt 30L,"Flavor: Sweet, Caramel, Toffee",30
+Grain,Briess,Caramel Malt 40L,"Flavor: Sweet, Caramel, Toffee",40
+Grain,Briess,2-Row Caramel Malt 40L,"Flavor: Sweet, Caramel, Toffee",40
+Grain,Briess,Caramel Malt 60L,"Flavor: Sweet, Pronounced Caramel",60
+Grain,Briess,2-Row Caramel Malt 60L,"Flavor: Sweet, Pronounced Caramel",60
+Grain,Briess,Caramel Malt 80L,"Flavor: Pronounced Caramel, Slight Burnt Sugar, Raisiny",80
+Grain,Briess,2-Row Caramel Malt 80L,"Flavor: Pronounced Caramel, Slight Burnt Sugar, Raisiny",80
+Grain,Briess,Caramel Malt 90L,"Flavor: Pronounced Caramel, Slight Burnt Sugar, Raisiny, Prunes",90
+Grain,Briess,Caramel Malt 120L,"Flavor: Pronounced Caramel, Slight Burnt Sugar, Raisiny, Prunes",120
+Grain,Briess,2-Row Caramel Malt 120L,"Flavor: Pronounced Caramel, Slight Burnt Sugar, Raisiny, Prunes",120
+Grain,Briess,Caramel Vienne 20L,"This 2-Row caramel malt is designed to add flavors unique to Vienna-style lagers and Belgian-style Abbey Ales. Imparts golden color.
+Flavor: Caramel, Malty",20
+Grain,Briess,Caramel Munich 60L,"This darker colored, more intense flavored 2-Row caramel malt is excellent in IPAs, Pale ales, Oktoberfests and Porters. Imparts amber to red colors.
+Flavor: Caramel, Roasted, Malty",60
+Grain,Briess,Victory® Malt ,"This exceptional malt delivers truly unique biscuity, nutty flavors. Well suited for Nut Brown Ales & other dark beers. Its clean flavor makes it well suited for ales and lagers alike. Use in small amounts to add complexity to lighter colored ales and lagers.
+Flavor: Toasty, Biscuity, Baking Bread, Nutty, Clean ",28
+Grain,Briess,Special Roast Malt ,"Whoa! This is one complex malt. With its characteristic and bold sourdough flavor, it will contribute an exciting layer of flavor to Nut Brown Ales, Porters and other dark beer styles. 
+Flavor: Toasty, Biscuity, Sour Dough, Tangy ",50
+Grain,Briess,Extra Special Malt ,"This intense 2-Row specialty malt is not for the faint of heart. It contributes distinctive flavors associated with darker, high gravity beers like Doppelbock. Even used at small quantities, you'll find it lives up to its name and delivers something ""extra special"" to your biggest, maltiest brews. 
+Flavor: Burnt Sugar, Woody, Prunes ",130
+Grain,Briess,Rye Malt,"Another uniquely-Briess specialty malt, Rye Malt isn't just for rye beer styles. Although brewing a traditional rye beer is exceptionally rewarding, try adding Rye Malt to light- and medium-colored and flavored beers for complexity. Or fire up your new distillery and use it to make a single malt whiskey. 
+Flavor: Rye",3.7
+Grain,Briess,Chocolate Malt,"Use in all beer styles for color adjustment. Use 1-10% for desired color in Porter and Stout. The rich roasted coffee, cocoa flavor is very complementary when used in higher percentages in Porters, Stouts, Brown Ales, and other dark beers.
+Flavor: Rich, Roasted, Coffee, Cocoa",350
+Grain,Briess,2-Row Chocolate Malt,"2-Row. Use in all beer styles for color adjustment. Use 1-10% for desired color in Porter and Stout. The rich roasted coffee, cocoa flavor is very complementary when used in higher percentages in Porters, Stouts, Brown Ales, and other dark beers.
+Flavor: Rich, Roasted, Coffee, Cocoa",350
+Grain,Briess,Dark Chocolate Malt,"2-Row. The intense, unique flavor of this malt adds depth and complexity to dark beers including Brown Ales, Stouts, Porters and more. Use in all beer styles for color adjustment. use 1-10% for desired color in Porter and Stout. 
+Flavor: Intense, Roasted, Coffee, Cocoa",420
+Grain,Briess,Black Malt,"Color adjustment for all beer styles. Use with other roasted malts for mild flavored dark beers.
+Flavor: Neutral",500
+Grain,Briess,2-Row Black Malt,"	2-Row. Color adjustment for all beer styles. Use with other roasted malts for mild flavored dark beers.
+Flavor: Neutral",500
+Grain,Briess,Black Malted Barley Flour,"	Color adjustment for all beer styles
+Flavor: Neutral",500
+Grain,Briess,Roasted Barley,"Contributes the roasted coffee flavor that is characteristic of Stout. Also adds complexity in Porters, Nut Brown Ales and other dark beer styles.
+Flavor: Rich, Roasted, Coffee, Intense Bitter, Dry",300
+Grain,Briess,Black Barley,"This one is an extreme version of Roasted Barley. Black Barley produces color and rich, sharp roasted coffee flavor characteristic of Stout and some Porters.
+Flavor: Rich, Roasted, Coffee, Intense Bitter, Dry",500
+Other,Briess,Brown Rice Syrup 45HM,"As a grain-based syrup, it provides proteins and amino acids necessary for yeast nutrition, head retention and body along with color and flavor.  Its unique flavor is quite mild, allowing it to be used in any recipe as a unique liquid adjunct to boost initial gravities while increasing overall brewing capacity. BriesSweet™ Brown Rice 45 High Maltose can be used for 100% extract brewing to produce rice beer (sake) or use it with concentrated worts to produce almost any beer style. 
+Flavor: None",2
+Other,Briess,White Sorghum Syrup 45HM,"As a grain-based syrup, it provides proteins and amino acids necessary for yeast nutrition, head retention and body along with color and flavor.  Its unique flavor is quite mild, allowing it to be used in any recipe as a unique liquid adjunct to boost initial gravities while increasing overall brewing capacity. BriesSweet™ White Sorghum Syrup 45 High Maltose can be used for 100% extract brewing to produce sorghum beer or use it with concentrated worts to produce almost any beer style.
+Flavor: None",1.5
+Extract,Briess,CBW® Pilsen Light,"The lightest colored brewer's grade malt extract available. Use alone for light-colored beers, or with specialty malts to brew beers of all styles. Excellent for boosting gravity and yeast propagation.
+Ingredients: Pilsen Malt, Carapils® Malt.
+Flavor: ",2
+Extract,Briess,CBW® Golden Light,"Excellent light-colored pure malt extract. Use alone for light-colored beers, or with specialty malts to brew beers of all styles. Excellent for boosting gravity and yeast propagation.
+Ingredients: Base Malt, Carapils® Malt",4
+Extract,Briess,CBW® Bavarian Wheat,"Use alone, or with specialty malts, to brew wheat beers of all styles. Excellent for boosting gravity or enhancing mouthfeel, body and foam..
+Ingredients: Wheat Malt, Base Malt.",3
+Extract,Briess,CBW® Munich,"This specialty malt extract is made using a traditional multiple step mashing process to achieve higher levels of fermentability. It is a very rich, malty, amber colored extract. Currently available as LME.
+Ingredients: 50% Base Malt, 50% Munich Malt",8
+Extract,Briess,CBW® Sparkling Amber,"This rich malty, caramel-flavored extract is excellent when used alone or with specialty malts for extract brewing. It is also well suited for boosting gravity and color adjustment in all-grain beers.
+Ingredients: Base Malt, Caramel Malt 60L, Munich Malt.",10
+Extract,Briess,CBW® Traditional Dark,"Produced from a big grist, this intense malty flavored extract is excellent for color adjustment.
+Ingredients: Base Malt, Caramel Malt 60L, Munich Malt, Black Malt.",30
+Extract,Briess,Maltoferm® A-6000 Black LME,"Maltoferm® A-6000 is a liquid malt extract made from 100% Briess black malt and water, making it a perfect colorant for beer.",3500
+Extract,Briess,Maltoferm® A-6001 Black DME,"Maltoferm® A-6001 is a dry malt extract made from 100% Briess black malt and water, making it a perfect colorant for beer.",3500
+Adjunct,Briess,Barley Flakes,"Use Barley Flakes as an adjunct in all-grain brews to produce a lighter colored finished beer without lowering the original gravity. Use in place of corn as an adjunct to eliminate corn flavor in the finished beer. Use at 10-25% of total grist to produce a light colored, mild flavored, dry beer.",1.4
+Adjunct,Briess,Yellow Corn Flakes,"Produced from yellow corn that has had the germ, oil and most of the protein removed, Yellow Corn Flakes produce a beer with a mild, less malty flavor and body than an all-malt beer. Yellow Corn Flakes also produce a drier, more crisp beer. Use up to 40% as a cereal adjunct in the total mash. Since the corn is de-germed, most of the oil is removed. This can cause lack of foam which is characteristic of high adjunct beers. Unlike corn grits which must be liquefied in a cereal cooker, Yellow Corn Flakes can be added directly to the mash. Do not mill. A single or multiple temperature infusion can be used. Conversion time and lautering time will be normal.
+Flavor: Corn",0.8
+Adjunct,Briess,Oat Flakes,"Made from dehulled oats, Oat Flakes are readily attacked by malt enzymes although brewhouse yield may be slightly lower than with any of the other pregelatinized flakes. Oat Flakes have a very distinctive ""sticky"" mouthfeel, noticeable even when used in small increments. Use 5-25% for an Oatmeal Stout. A small percentage of Oat Flakes is nice in Belgian-style White Beers. Oat Flakes tend to make a sticky mash. The more used, the stickier the mash. To counteract this, add more foundation water. Use a ratio of 3.0 to 3.2 parts of water to 1 part grist. The run-off from the lauter will remain rather milky, but clears during filtration.
+Flavor: Oat",2.5
+Adjunct,Briess,Rice Flakes,"Produced from medium-grain rice, Rice Flakes will help you brew light, clean and crisp beers. Rice Flakes can be used up to 40% of the total grist. We suggest using slightly lower conversion temperatures and extending the conversion time by 15 minutes to obtain maximum efficiency.
+Flavor: None",1
+Adjunct,Briess,Red Wheat Flakes,"Produced from high quality wheat with acceptable protein level. Use in place of Malted Wheat in wheat beers. Flakes will yield a different flavor profile than Malted Wheat. Red Wheat Flakes are recommended for Belgian-style White Beers. A maximum of 40% of the total grist is recommended. A small amount of Red Wheat Flakes, 0.5-1.0%, added to a standard brew will greatly increase the foam stability due to the type of protein that wheat contributes.
+Flavor: Wheat",2
+Adjunct,Briess,Rye Flakes,"Rye Flakes contribute a very clean, distinctive rye flavor. Start at 5-10% and increase in increments of 5% because of the concentrated, distinctive flavor of Rye Use up to 40% as a cereal adjunct in the total grist to create Rye Beer. Flakes will exhibit a sticky mash, however, not to the extent of Oat Flakes. Use your judgment when deciding to add more water to help avoid a sticky mash.
+Flavor: Rye",3
+Adjunct,Briess,Torrified Wheat,"Part of our Insta Grains® product, line Torrified Wheat is short for Insta Grains® Soft Red Wheat Whole Kernel. That's what you'll see printed on the label, but don't worry. It's simply Torrified Wheat. Our Torrified Wheat has been heat treated to break the cellular structure, allowing for rapid hydration and malt enzymes to more completely attack the starches and protein. Torrified Wheat can be used in place of raw wheat when making Belgian-style White and Wit beers. Advantages over raw wheat include normal conversion time and higher yield.
+Flavor: Wheat",1.5
+Adjunct,Briess,Rice Hulls,"Lautering aid.
+Flavor: None",0
+Grain,Briess,Organic 2-Row Malt,"Base malt for all beer styles.
+Flavor: Mild, Malty",1.8
+Grain,Briess,Organic Munich Malt 10L (Bonlander® Malt),"Provides malty flavor when used at 5-15%. Adds pronounced malty flavor without adding non-fermentables or affecting foam. Small amounts added to the grist will improve the malty flavor and give a richer color to low gravity brews.
+Flavor: Robust, Malty",10
+Grain,Briess,Organic Carapils® Malt,"Use up to 5% for increased foam, improved head retention and enhanced mouthfeel in any beer style.
+Flavor: None",1.5
+Grain,Briess,Organic Caramel Malt 20L,"Flavor: Candylike, Sweetness, Mild Caramel",20
+Grain,Briess,Organic Caramel Malt 60L,"Flavor: Sweet, Pronounced, Caramel 	",60
+Grain,Briess,Organic Caramel Malt 120L,"Flavor: Sweet, Pronounced, Caramel 	",120
+Grain,Briess,Organic Chocolate Malt,"Use in all beer styles for color adjustment. Use 1-10% for desired color in Porter and Stout. The rich roasted coffee, cocoa flavor is very complementary when used in higher percentages in Porters, Stouts, Brown Ales, and other dark beers.
+Flavor: Rich, Roasted, Coffee, Cocoa",350
+Grain,Briess,Organic Black Malt,"Use in all beer styles for color adjustment. Use 1-10% for desired color in Porter and Stout. Sometimes used with other dark roasted malts to achieve desired color. Often used to provide color without overpowering flavor that is characteristic of European-style dark beers. May be used with or without Roasted Barley to brew a Stout with more color and less intense Roasted Barley flavor notes. May be used with Chocolate Malt to produce a Porter with less pronounced chocolate flavor notes. Black Malt is not interchangeable with Roasted Barley. Produces dark colored beer with little impact to foam color. Use when dark beer with light head is desired.
+Flavor: Neutral; Slight astringency at higher usage rates",500
+Grain,Briess,Organic Roasted Barley,"Contributes the roasted coffee flavor that is characteristic of Stout. Also adds complexity in Porters, Nut Brown Ales and other dark beer styles
+Flavor: Rich, Roasted, Coffee, Intense Bitter, Dry",300
+Extract,Briess,Maltoferm® 10000 Malt Extract LME,"100% pure malted barley extract made from Briess malt. Use in the production of all extract beer styles and to adjust the color, flavor and gravity of all-grain beers. Advantages for all-grain brewing include: save time, increase capacity/boost productivity, extend the brew size by adding malt solids to the wort, boost gravity and improve body and head retention.
+Flavor: Malty",4
+Extract,Briess,Maltoferm® 10000 Malt Extract LME,"100% pure malted barley extract made from Briess malt. Use in the production of all extract beer styles and to adjust the color, flavor and gravity of all-grain beers. Advantages for all-grain brewing include: save time, increase capacity/boost productivity, extend the brew size by adding malt solids to the wort, boost gravity and improve body and head retention.
+Flavor: Malty",4
